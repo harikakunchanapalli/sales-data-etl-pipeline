@@ -1,0 +1,21 @@
+order_id,product,category,price,quantity,date,region,total_amount
+1,Laptop,Electronics,75000,1,2024-01-01,North,75000
+2,Mouse,Electronics,1200,2,2024-01-02,South,2400
+3,Keyboard,Electronics,2500,1,2024-01-03,East,2500
+4,Chair,Furniture,4500,1,2024-01-04,West,4500
+5,Desk,Furniture,15000,1,2024-01-05,North,15000
+6,Pen,Stationery,20,10,2024-01-06,South,200
+7,Notebook,Stationery,50,5,2024-01-07,East,250
+8,Monitor,Electronics,12000,1,2024-01-08,West,12000
+9,Headphones,Electronics,3000,2,2024-01-09,North,6000
+10,Water Bottle,Home,300,3,2024-01-10,South,900
+11,Backpack,Accessories,1500,1,2024-01-11,East,1500
+12,Phone,Electronics,55000,1,2024-01-12,West,55000
+13,Tablet,Electronics,30000,1,2024-01-13,North,30000
+14,Printer,Electronics,8000,1,2024-01-14,South,8000
+15,Mousepad,Accessories,200,2,2024-01-15,East,400
+16,Book,Stationery,300,4,2024-01-16,West,1200
+17,Shirt,Clothing,900,2,2024-01-17,North,1800
+18,Shoes,Clothing,2500,1,2024-01-18,South,2500
+19,Bag,Accessories,1200,1,2024-01-19,East,1200
+20,Table Lamp,Home,900,1,2024-01-20,West,900
